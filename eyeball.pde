@@ -34,6 +34,4 @@ ellipse(200,200,200,200);
 fill(255,255,255);
 ellipse(245,155,60,60);
 
-save("Thammarak.Eyeball.Drawing.gif");
-
 }
