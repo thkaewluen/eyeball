@@ -6,7 +6,7 @@ void setup() {
 void draw() {
 
 size(400,400);
-background(60,210,100);
+background(#EA8C8C);
 
 // Brown
 fill(151,115,79);
